@@ -1,0 +1,15 @@
+.header{
+	width: 980px;
+	height:114px;
+	background-color:#525252;
+	margin:0 auto;
+	text-align: center;
+}
+.banner{
+	width:980px;
+	margin:0 auto;
+}
+.banner h2{
+	font-size: 18px;
+	line-height: 40px;
+}
